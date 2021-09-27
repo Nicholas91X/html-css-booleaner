@@ -1,3 +1,16 @@
+.testo-didascalia{
+    font-size: 14px;
+}
+
+.testo-normale{
+    font-size: 20px;
+}
+
+.super-testo{
+    font-size: 60px;
+    font-weight: 800;
+}
+
 #contenitore-logo {
     background-image: url(../img/pattern.png);
     background-size: auto;
@@ -10,3 +23,4 @@
 #image-logo{
     width: 15%;
 }
+
