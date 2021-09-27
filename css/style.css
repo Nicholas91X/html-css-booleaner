@@ -1,0 +1,12 @@
+#contenitore-logo {
+    background-image: url(../img/pattern.png);
+    background-size: auto;
+    background-color: cornflowerblue;
+    padding-top: 75px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+}
+
+#image-logo{
+    width: 15%;
+}
