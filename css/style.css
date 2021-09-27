@@ -36,3 +36,49 @@
 .testo-evidenziato{
     background-color: yellow;
 }
+
+.tabella-main{
+    width: 33%;
+}
+
+.testo-tabella{
+    text-align: left;
+}
+
+.riga-azzurra {
+    background-color: lightblue;
+}
+
+.riga-blu {
+    background-color: darkblue;
+    color: white;
+}
+
+.titolo-footer{
+    color: lightslategray;
+}
+
+#graph-footer {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+#monitor-footer {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+.testo-immagini-footer{
+    padding-left: 15px;
+    padding-top: 20px;
+}
